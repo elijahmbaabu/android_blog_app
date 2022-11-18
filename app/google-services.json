@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776387989146",
+    "project_id": "farmersblog-90741",
+    "storage_bucket": "farmersblog-90741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776387989146:android:08f4b437e4e7dbd4ecd923",
+        "android_client_info": {
+          "package_name": "com.example.farmersblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776387989146-27rgu4rsse6cqvvi6seab0ikme1j1i9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqAgHUSNvTSTk-KkfeanV91okoNLQLBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776387989146-27rgu4rsse6cqvvi6seab0ikme1j1i9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
